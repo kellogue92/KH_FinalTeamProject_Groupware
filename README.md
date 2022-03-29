@@ -1,5 +1,6 @@
-# KH_FinalTeamProject_Groupware
-KH 정보교육원에서 진행한 파이널 팀프로젝트 그룹웨어 WeCanvas
+- TeamProject_Groupware
+팀프로젝트 그룹웨어 WeCanvas
+
 
 오피스 그룹웨어 WeCanvas
 
